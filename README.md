@@ -4,6 +4,8 @@ SSHy is a HTML5 SSHv2 web client implementing E2E encryption that runs well on m
 
 ## About
 
+*This is a fork of SSHy - intended as a module for Prompts, the new Friend OS command line environment.*
+
 SSHy is a fast and responsive SSHv2 web client with end-to-end encryption supplied by [SJCL](https://github.com/bitwiseshiftleft/sjcl). SSHy implements a minimal subset of the SSHv2 protocol that provides and controls a pseudo-terminal. The terminal front-end interface is provided by [xterm.js](https://github.com/sourcelair/xterm.js/). Currently in use at https://linuxzoo.net , a non-functional preview is available at https://stuicey.github.io/SSHy/.
 
 ![](https://user-images.githubusercontent.com/6617743/28020759-5cb16a98-657d-11e7-8497-d493f90823f7.png)
